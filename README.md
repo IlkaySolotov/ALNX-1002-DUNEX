@@ -1,5 +1,5 @@
 # ALNX-1002-DUNEX-Exploit
-WinAllocation from URL, WinExecute File(p) and ExitProcess Exploit
+WINALL-URL WINEXEC-File[P] EXITENV
 
 ```yaml
 TargetOS: Win10
