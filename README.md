@@ -2,13 +2,13 @@
 WINALL-URL WINEXEC-File[P] EXITENV
 
 ```yaml
-TargetOS: Win10
-TestedOn: 2004 SO 19041.685
-Payload: ASM
+TargetOS: Linux
+TestedOn: Ubuntu 20.04LTS
+Payload: ASM>SH<=>Venom
 Language: C++ / Shellcode-Hex / Assembly
 Patch: n/a
 Danger: 7
-Classification: ALNX-1001-CMSTP
+Classification: ALNX-1002-DUNEX
 ```
 
 **_ZombiePayload (unchanged/default)_** 
